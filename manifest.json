@@ -1,0 +1,9 @@
+{
+    "name": "Tenshi_Posters",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Tenshi-Shina/Tenshi-Posters",
+    "description": "A mod containing posters of a character from my book.",
+    "dependencies": [
+	  "femboytv-LethalPosters-1.2.3"
+    ]
+}

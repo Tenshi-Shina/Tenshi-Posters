@@ -1,1 +1,1 @@
-A small little mod I made for Lethal Company.
+Thanks for downloading this small mod I made! I hope you enjoy it, this is my first mod. 
